@@ -49,9 +49,6 @@ This commands includes
 ## HOSTNAME
 ![Screenshot 2024-10-19 210627](https://github.com/user-attachments/assets/7b52b169-cbe8-4b05-8acb-274f2c1566b5)
 
-## NBTSTAT
-![Screenshot 2024-10-19 210643](https://github.com/user-attachments/assets/99653a10-3ff7-41da-a3cd-074fec878fc7)
-
 ## ARP
 ![Screenshot 2024-10-19 210701](https://github.com/user-attachments/assets/98cd8d15-23a4-42da-93a1-4cb0c3714028)
 
