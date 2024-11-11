@@ -46,15 +46,16 @@ This commands includes
 ## GETMAC
 ![Screenshot 2024-10-19 210540](https://github.com/user-attachments/assets/476c1334-6f03-4255-a726-201b431d06fc)
 
+## SYSTEM INFO
+
+![Screenshot 2024-10-19 210813](https://github.com/user-attachments/assets/9563669c-9e93-469d-a129-13ab5cc9b924)
+
 ## HOSTNAME
 ![Screenshot 2024-10-19 210627](https://github.com/user-attachments/assets/7b52b169-cbe8-4b05-8acb-274f2c1566b5)
 
 ## ARP
 ![Screenshot 2024-10-19 210701](https://github.com/user-attachments/assets/98cd8d15-23a4-42da-93a1-4cb0c3714028)
 
-## SYSTEM INFO
-
-![Screenshot 2024-10-19 210813](https://github.com/user-attachments/assets/9563669c-9e93-469d-a129-13ab5cc9b924)
 
 ## Result
 Thus Execution of Network commands Performed 
